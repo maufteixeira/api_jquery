@@ -1,0 +1,20 @@
+.A{
+
+  width: 25%;
+  display: flex;
+  align-items: right;
+
+}
+
+#cep{
+  
+  width: 5cm;
+  margin-right: 15px;
+
+}
+
+.t{
+  
+  font-weight: bold;
+
+}
